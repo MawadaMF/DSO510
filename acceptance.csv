@@ -1,0 +1,89 @@
+Rank,School,Admissions Score,Acceptance Rate,Average SAT,Percentage of Top 10%
+1,University of Pennsylvania (Wharton),100.00,6.49%,1486,97.00%
+2,Washington University in St. Louis (Olin),98.37,9.70%,1510,91.00%
+3,University of California-Berkeley (Haas),94.09,4.30%,1490,80.85%
+4,Cornell University (Dyson),92.14,2.90%,1453,83.33%
+5,University of Michigan (Ross),89.58,12.00%,1470,82.22%
+6,New York University (Stern),88.73,8.00%,1468,77.08%
+7,Carnegie Mellon University (Tepper),88.00,12.00%,1473,78.00%
+8,Georgetown University (McDonough),87.64,15.84%,1431,90.00%
+9,University of Virginia (McIntire),86.79,12.15%,1407,90.00%
+10,University of Notre Dame (Mendoza),83.74,19.00%,1429,84.60%
+11,University of California-Irvine (Merage),81.60,22.00%,1359,98.00%
+12,University of North Carolina at Chapel Hill (Kenan-Flagler),79.60,12.17%,1367,82.70%
+13,Southern Methodist University (Cox),77.50,11.12%,1494,49.00%
+14,Emory University (Goizueta),76.65,17.21%,1470,58.00%
+15,Boston College (Carroll),75.98,25.00%,1402,78.65%
+16,University of Texas-Austin (McCombs),75.71,22.80%,1384,80.00%
+17,Villanova University,75.40,22.07%,1408,73.33%
+18,Wake Forest University,72.52,24.80%,1378,76.00%
+19,Georgia Institute of Technology (Scheller),70.99,23.70%,1376,72.00%
+20,Boston University (Questrom),69.55,17.76%,1422,53.16%
+21,Northeastern University (D'amore-McKim),68.68,18.68%,1463,43.00%
+22,Indiana University (Kelley),68.35,40.38%,1437,67.97%
+23,University of Wisconsin-Madison,65.64,35.00%,1405,64.00%
+24,Tulane University (Freeman),65.46,22.00%,1420,48.33%
+25,The College of William & Mary (Mason),63.67,22.40%,1346,61.00%
+26,University of Richmond (Robins),62.99,30.31%,1363,63.00%
+27,Lehigh University,62.71,22.39%,1376.39,52.13%
+28,University of Washington (Foster),62.48,20.95%,1310,64.94%
+29,University of Illinois at Champaign-Urbana (Geis),60.15,48.98%,1365,73.37%
+30,University of Minnesota (Carlson),60.00,28.44%,1371,52.80%
+31,Babson College,59.21,24.00%,1353,50.91%
+32,Worcester Polytechnic Institute (Foisie),58.01,36.00%,1395,50.00%
+33,Fordham University (Gabelli),55.16,44.90%,1361,59.30%
+34,University of Pittsburgh,55.05,44.00%,1345,61.76%
+35,University of Miami,52.71,30.44%,1327,48.00%
+36,University of Georgia (Terry),50.90,47.44%,1300,65.52%
+37,University of Houston (Bauer),49.92,25.18%,1309,40.87%
+38,Rutgers Business School (New Brunswick),47.47,46.00%,1349,45.70%
+39,Texas A&M University (Mays),47.13,34.07%,1281.72,48.80%
+40,Syracuse University (Whitman),46.42,38.10%,1304,46.00%
+41,University of Massachusetts-Amherst (Isenberg),45.56,30.60%,1336,30.10%
+42,University of Utah (Eccles),44.75,40.80%,1270,52.24%
+43,American University (Kogod),44.43,31.60%,1256,46.15%
+44,Ohio State University (Fisher),44.41,38.60%,1340,34.00%
+45,Brigham Young University (Marriott),43.12,63.16%,1325,57.01%
+46,Pennsylvania State University (Smeal),42.55,37.00%,1319,33.00%
+47,University of Denver (Daniels),42.15,46.30%,1299.3,45.00%
+48,Texas Christian University (Neeley),40.43,46.56%,1265,48.94%
+49,University of Kentucky (Gatton),39.70,69.79%,1395,40.00%
+50,Hult International Business School,39.39,50.00%,1264,50.00%
+51,Purdue University (Krannert),39.32,62.00%,1268,60.00%
+52,Rensselaer Polytechnic Institute (Lally),38.20,42.00%,1291,34.00%
+53,Michigan State University (Broad),34.82,32.19%,1241.77,28.27%
+54,The College of New Jersey,34.52,41.00%,1254,33.00%
+55,University of San Diego,33.89,53.00%,1275,38.00%
+56,Santa Clara University (Leavey),32.48,43.50%,1366,6.00%
+57,Miami University (Farmer),31.38,62.60%,1323,30.60%
+58,St. John's University (Tobin),31.09,59.00%,1208,52.00%
+59,Christopher Newport University,28.58,74.60%,1270,47.06%
+60,University of South Carolina (Darla Moore),27.02,65.10%,1299,28.41%
+61,University of Delaware (Lerner),26.53,46.40%,1285,13.20%
+62,Seton Hall University (Stillman),26.45,57.60%,1257,29.50%
+63,University of Texas-Dallas (Jindal),24.66,60.00%,1242,31.00%
+64,Providence College,24.65,51.00%,1247,21.60%
+65,Rutgers Business School (Newark),22.92,55.00%,1157,41.25%
+66,University of Tennessee-Knoxville (Haslam),22.86,85.00%,1212.6,56.44%
+67,St. Thomas University (Opus),21.04,83.00%,1215,50.00%
+68,James Madison University,20.13,68.31%,1217,34.00%
+69,Drexel University (LeBow),19.55,74.00%,1262,28.00%
+70,University of Akron,19.19,73.99%,1154,51.02%
+71,Elon University (Love),17.71,72.10%,1249,25.00%
+72,University of Missouri-Columbia (Trulaske),15.62,69.17%,1220,24.00%
+73,Florida Southern College,15.57,50.00%,1203,10.00%
+74,Lipscomb University,15.35,61.00%,1156,30.00%
+75,University of Oklahoma (Price),14.39,61.77%,1212,16.20%
+76,Rochester Institute of Technology (Saunders),13.29,72.10%,1204,25.00%
+77,University of Arizona (Eller),13.13,79.00%,1110,51.72%
+78,University of North Carolina-Wilmington,9.39,61.00%,1177,12.00%
+79,University of New Hampshire (Paul),8.02,64.10%,1171,13.10%
+80,Ithaca College,7.82,80.18%,1221,16.40%
+81,St. Louis University (Chaifetz),7.28,83.03%,1241,13.40%
+82,Sacred Heart University (Jack Welch),6.39,60.80%,1156,9.70%
+83,Northern Illinois University,6.01,53.84%,1110,12.60%
+84,University of Michigan-Dearborn,5.13,62.00%,1147.8,9.80%
+85,Duquesne University (Palumbo Donahue),5.12,76.00%,1197,11.80%
+86,Texas Tech University (Rawls),4.53,76.40%,1093,33.78%
+87,Bowling Green State University,1.09,70.00%,1128,12.46%
+88,Evansville University (Schroeder),0.00,88.60%,1171,17.64%
