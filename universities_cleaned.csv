@@ -1,89 +1,89 @@
-School_x,business_school,Acceptance Rate,Average Salary
-University of Pennsylvania (Wharton),Wharton,0.0649,80354
-Washington University in St. Louis (Olin),Olin,0.09699999999999999,67115
-University of California-Berkeley (Haas),Haas,0.043,73302
-Cornell University (Dyson),Dyson,0.028999999999999998,74493
-University of Michigan (Ross),Ross,0.12,72268
-New York University (Stern),Stern,0.08,80546
-Carnegie Mellon University (Tepper),Tepper,0.12,77987
-Georgetown University (McDonough),McDonough,0.15839999999999999,73019
-University of Virginia (McIntire),McIntire,0.1215,75068
-University of Notre Dame (Mendoza),Mendoza,0.19,65000
-University of California-Irvine (Merage),Merage,0.22,54479
-University of North Carolina at Chapel Hill (Kenan-Flagler),Kenan-Flagler,0.1217,66667
-Southern Methodist University (Cox),Cox,0.1112,67138
-Emory University (Goizueta),Goizueta,0.1721,66297
-Boston College (Carroll),Carroll,0.25,65814
-University of Texas-Austin (McCombs),McCombs,0.228,67347
-Georgia Institute of Technology (Scheller),Scheller,0.237,62545
-Boston University (Questrom),Questrom,0.1776,64275
-Indiana University (Kelley),Kelley,0.40380000000000005,62734
-Tulane University (Freeman),Freeman,0.22,60442
-The College of William & Mary (Mason),Mason,0.22399999999999998,64724
-University of Richmond (Robins),Robins,0.3031,62969
-University of Washington (Foster),Foster,0.2095,61039
-University of Minnesota (Carlson),Carlson,0.2844,56989
-Babson College,Babson College,0.24,57665
-Worcester Polytechnic Institute (Foisie),Foisie,0.36,69930
-Fordham University (Gabelli),Gabelli,0.449,63777
-University of Georgia (Terry),Terry,0.4744,56428
-University of Houston (Bauer),Bauer,0.2518,54144
-Rutgers Business School (New Brunswick),New Brunswick,0.46,60228
-Texas A&M University (Mays),Mays,0.3407,57286
-Syracuse University (Whitman),Whitman,0.381,59371
-University of Massachusetts-Amherst (Isenberg),Isenberg,0.306,57782
-University of Utah (Eccles),Eccles,0.408,51478
-American University (Kogod),Kogod,0.316,58670
-Ohio State University (Fisher),Fisher,0.386,54740
-Pennsylvania State University (Smeal),Smeal,0.37,60046
-University of Denver (Daniels),Daniels,0.46299999999999997,50975
-Texas Christian University (Neeley),Neeley,0.4656,60719
-University of Kentucky (Gatton),Gatton,0.6979000000000001,49175
-Purdue University (Krannert),Krannert,0.62,57473
-Rensselaer Polytechnic Institute (Lally),Lally,0.42,67200
-Michigan State University (Broad),Broad,0.32189999999999996,58706
-Santa Clara University (Leavey),Leavey,0.435,59333
-Miami University (Farmer),Farmer,0.626,59540
-St. John's University (Tobin),Tobin,0.59,59146
-Seton Hall University (Stillman),Stillman,0.5760000000000001,59451
-University of Texas-Dallas (Jindal),Jindal,0.6,58100
-Rutgers Business School (Newark),Newark,0.55,54211
-University of Tennessee-Knoxville (Haslam),Haslam,0.85,50446
-St. Thomas University (Opus),Opus,0.83,48000
-Drexel University (LeBow),LeBow,0.74,57185
-Elon University (Love),Love,0.721,52299
-University of Oklahoma (Price),Price,0.6177,53134
-Rochester Institute of Technology (Saunders),Saunders,0.721,51273
-University of Arizona (Eller),Eller,0.79,54041
-University of New Hampshire (Paul),Paul,0.6409999999999999,50420
-Texas Tech University (Rawls),Rawls,0.764,53473
-Evansville University (Schroeder),Schroeder,0.8859999999999999,50537
-Villanova University,Villanova,0.2207,63709
-Wake Forest University,Wake Forest,0.248,68300
-Northeastern University (D'amore-McKim),D’Amore-McKim,0.1868,66101
-University of Wisconsin-Madison,Wisconsin,0.35,58603
-Lehigh University,Lehigh,0.22390000000000002,66598
-University of Illinois at Champaign-Urbana (Geis),Gies,0.48979999999999996,63079
-University of Pittsburgh,Pittsburgh,0.44,54370
-Hult International Business School,Hult International,0.5,34708
-University of San Diego,San Diego,0.53,57119
-Christopher Newport University,Christopher Newport,0.746,48000
-Providence College,Providence,0.51,57174
-James Madison University,James Madison,0.6831,58257
-University of Akron,Akron,0.7399,42651
-Florida Southern College,Florida Southern,0.5,43366
-Lipscomb University,Lipscomb,0.61,46875
-University of North Carolina-Wilmington,North Carolina-Wilmington,0.61,44507
-Ithaca College,Ithaca,0.8018000000000001,50649
-Northern Illinois University,Northern Illinois,0.5384,51120
-University of Michigan-Dearborn,Michigan-Dearborn,0.62,49507
-Bowling Green State University,Bowling Green,0.7,53300
-University of Miami,Miami,0.3044,60801
-Brigham Young University (Marriott),Marriott,0.6315999999999999,55148
-The College of New Jersey,TCNJ,0.41,58000
-University of South Carolina (Darla Moore),Darla Moore,0.6509999999999999,61946
-University of Delaware (Lerner),Lerner,0.46399999999999997,54087
-University of Missouri-Columbia (Trulaske),Trulaske,0.6917,48827
-St. Louis University (Chaifetz),Chaifetz,0.8303,63333
-Sacred Heart University (Jack Welch),Jack Welch,0.608,54784
-Duquesne University (Palumbo Donahue),Donahue,0.76,50592
+School_x,business_school,Acceptance Rate,Average Salary,Public(0) or Private(1)
+University of Pennsylvania (Wharton),Wharton,0.0649,80354,1
+Washington University in St. Louis (Olin),Olin,0.097,67115,1
+University of California-Berkeley (Haas),Haas,0.043,73302,0
+Cornell University (Dyson),Dyson,0.029,74493,1
+University of Michigan (Ross),Ross,0.12,72268,0
+New York University (Stern),Stern,0.08,80546,1
+Carnegie Mellon University (Tepper),Tepper,0.12,77987,1
+Georgetown University (McDonough),McDonough,0.1584,73019,1
+University of Virginia (McIntire),McIntire,0.1215,75068,0
+University of Notre Dame (Mendoza),Mendoza,0.19,65000,1
+University of California-Irvine (Merage),Merage,0.22,54479,0
+University of North Carolina at Chapel Hill (Kenan-Flagler),Kenan-Flagler,0.1217,66667,0
+Southern Methodist University (Cox),Cox,0.1112,67138,1
+Emory University (Goizueta),Goizueta,0.1721,66297,1
+Boston College (Carroll),Carroll,0.25,65814,1
+University of Texas-Austin (McCombs),McCombs,0.228,67347,0
+Georgia Institute of Technology (Scheller),Scheller,0.237,62545,0
+Boston University (Questrom),Questrom,0.1776,64275,1
+Indiana University (Kelley),Kelley,0.4038,62734,0
+Tulane University (Freeman),Freeman,0.22,60442,1
+The College of William & Mary (Mason),Mason,0.224,64724,0
+University of Richmond (Robins),Robins,0.3031,62969,1
+University of Washington (Foster),Foster,0.2095,61039,0
+University of Minnesota (Carlson),Carlson,0.2844,56989,0
+Babson College,Babson College,0.24,57665,1
+Worcester Polytechnic Institute (Foisie),Foisie,0.36,69930,1
+Fordham University (Gabelli),Gabelli,0.449,63777,1
+University of Georgia (Terry),Terry,0.4744,56428,0
+University of Houston (Bauer),Bauer,0.2518,54144,0
+Rutgers Business School (New Brunswick),New Brunswick,0.46,60228,0
+Texas A&M University (Mays),Mays,0.3407,57286,0
+Syracuse University (Whitman),Whitman,0.381,59371,1
+University of Massachusetts-Amherst (Isenberg),Isenberg,0.306,57782,0
+University of Utah (Eccles),Eccles,0.408,51478,0
+American University (Kogod),Kogod,0.316,58670,1
+Ohio State University (Fisher),Fisher,0.386,54740,0
+Pennsylvania State University (Smeal),Smeal,0.37,60046,0
+University of Denver (Daniels),Daniels,0.463,50975,1
+Texas Christian University (Neeley),Neeley,0.4656,60719,1
+University of Kentucky (Gatton),Gatton,0.6979,49175,0
+Purdue University (Krannert),Krannert,0.62,57473,0
+Rensselaer Polytechnic Institute (Lally),Lally,0.42,67200,1
+Michigan State University (Broad),Broad,0.3219,58706,0
+Santa Clara University (Leavey),Leavey,0.435,59333,1
+Miami University (Farmer),Farmer,0.626,59540,0
+St. John's University (Tobin),Tobin,0.59,59146,1
+Seton Hall University (Stillman),Stillman,0.576,59451,1
+University of Texas-Dallas (Jindal),Jindal,0.6,58100,0
+Rutgers Business School (Newark),Newark,0.55,54211,0
+University of Tennessee-Knoxville (Haslam),Haslam,0.85,50446,0
+St. Thomas University (Opus),Opus,0.83,48000,1
+Drexel University (LeBow),LeBow,0.74,57185,1
+Elon University (Love),Love,0.721,52299,1
+University of Oklahoma (Price),Price,0.6177,53134,0
+Rochester Institute of Technology (Saunders),Saunders,0.721,51273,1
+University of Arizona (Eller),Eller,0.79,54041,0
+University of New Hampshire (Paul),Paul,0.641,50420,0
+Texas Tech University (Rawls),Rawls,0.764,53473,0
+Evansville University (Schroeder),Schroeder,0.886,50537,1
+Villanova University,Villanova,0.2207,63709,1
+Wake Forest University,Wake Forest,0.248,68300,1
+Northeastern University (D'Amore-McKim),D'Amore-McKim,0.1868,66101,1
+University of Wisconsin-Madison,Wisconsin,0.35,58603,0
+Lehigh University,Lehigh,0.2239,66598,1
+University of Illinois at Champaign-Urbana (Gies),Gies,0.4898,63079,0
+University of Pittsburgh,Pittsburgh,0.44,54370,0
+Hult International Business School,Hult International,0.5,34708,1
+University of San Diego,San Diego,0.53,57119,1
+Christopher Newport University,Christopher Newport,0.746,48000,0
+Providence College,Providence,0.51,57174,1
+James Madison University,James Madison,0.6831,58257,0
+University of Akron,Akron,0.7399,42651,0
+Florida Southern College,Florida Southern,0.5,43366,1
+Lipscomb University,Lipscomb,0.61,46875,1
+University of North Carolina-Wilmington,North Carolina-Wilmington,0.61,44507,0
+Ithaca College,Ithaca,0.8018,50649,1
+Northern Illinois University,Northern Illinois,0.5384,51120,0
+University of Michigan-Dearborn,Michigan-Dearborn,0.62,49507,0
+Duquesne University (Palumbo-Donahue),Palumbo-Donahue,0.76,50592,1
+Bowling Green State University,Bowling Green,0.7,53300,0
+University of Miami,Miami,0.3044,60801,1
+Brigham Young University (Marriott),Marriott,0.6316,55148,1
+The College of New Jersey,TCNJ,0.41,58000,0
+University of South Carolina (Darla Moore),Darla Moore,0.651,61946,0
+University of Delaware (Lerner),Lerner,0.464,54087,0
+University of Missouri-Columbia (Trulaske),Trulaske,0.6917,48827,0
+St. Louis University (Chaifetz),Chaifetz,0.8303,63333,1
+Sacred Heart University (Jack Welch),Jack Welch,0.608,54784,1
