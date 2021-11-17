@@ -1,0 +1,89 @@
+,School_x,business_school,Acceptance Rate,Average Salary,Distance to Nearest City,Far vs Close
+0,University of Pennsylvania (Wharton),Wharton,0.0649,80354,1.5607043064826358,Close
+1,Washington University in St. Louis (Olin),Olin,0.097,67115,235.6847264650089,Far
+2,University of California-Berkeley (Haas),Haas,0.043,73302,11.31518825207556,Close
+3,Cornell University (Dyson),Dyson,0.029,74493,178.50033030548443,Far
+4,University of Michigan (Ross),Ross,0.12,72268,35.65717417595589,Close
+5,New York University (Stern),Stern,0.08,80546,1.326961919576017,Close
+6,Carnegie Mellon University (Tepper),Tepper,0.12,77987,255.20181010350203,Far
+7,Georgetown University (McDonough),McDonough,0.1584,73019,2.069438360141229,Close
+8,University of Virginia (McIntire),McIntire,0.1215,75068,99.47401635570516,Far
+9,University of Notre Dame (Mendoza),Mendoza,0.19,65000,73.4012398386909,Far
+10,University of California-Irvine (Merage),Merage,0.22,54479,36.54161387212739,Close
+11,University of North Carolina at Chapel Hill (Kenan-Flagler),Kenan-Flagler,0.1217,66667,111.49127316742637,Far
+12,Southern Methodist University (Cox),Cox,0.1112,67138,4.6341468997534045,Close
+13,Emory University (Goizueta),Goizueta,0.1721,66297,5.053226640179671,Close
+14,Boston College (Carroll),Carroll,0.25,65814,6.032594684089073,Close
+15,University of Texas-Austin (McCombs),McCombs,0.228,67347,1.2486316568410578,Close
+16,Georgia Institute of Technology (Scheller),Scheller,0.237,62545,1.9229956343492116,Close
+17,Boston University (Questrom),Questrom,0.1776,64275,2.5333151389544533,Close
+18,Indiana University (Kelley),Kelley,0.4038,62734,45.38104985432886,Close
+19,Tulane University (Freeman),Freeman,0.22,60442,315.4202670844136,Far
+20,The College of William & Mary (Mason),Mason,0.224,64724,114.20919086923641,Far
+21,University of Richmond (Robins),Robins,0.3031,62969,95.92986343028697,Far
+22,University of Washington (Foster),Foster,0.2095,61039,3.8569626955916902,Close
+23,University of Minnesota (Carlson),Carlson,0.2844,56989,1.108483300956961,Close
+24,Babson College,Babson College,0.24,57665,11.537385810482737,Close
+25,Worcester Polytechnic Institute (Foisie),Foisie,0.36,69930,38.918462726760026,Close
+26,Fordham University (Gabelli),Gabelli,0.449,63777,12.157420087050989,Close
+27,University of Georgia (Terry),Terry,0.4744,56428,59.72932075069157,Far
+28,University of Houston (Bauer),Bauer,0.2518,54144,3.199364932191736,Close
+29,Rutgers Business School (New Brunswick),New Brunswick,0.46,60228,26.25287739145775,Close
+30,Texas A&M University (Mays),Mays,0.3407,57286,83.0060454222879,Far
+31,Syracuse University (Whitman),Whitman,0.381,59371,194.53967602282248,Far
+32,University of Massachusetts-Amherst (Isenberg),Isenberg,0.306,57782,75.40551290241179,Far
+33,University of Utah (Eccles),Eccles,0.408,51478,363.6304989714836,Far
+34,American University (Kogod),Kogod,0.316,58670,3.438609330456038,Close
+35,Ohio State University (Fisher),Fisher,0.386,54740,3.351521645642385,Close
+36,Pennsylvania State University (Smeal),Smeal,0.37,60046,154.14618690329766,Far
+37,University of Denver (Daniels),Daniels,0.463,50975,4.649337508770598,Close
+38,Texas Christian University (Neeley),Neeley,0.4656,60719,3.5861098110030567,Close
+39,University of Kentucky (Gatton),Gatton,0.6979,49175,69.7521421562071,Far
+40,Purdue University (Krannert),Krannert,0.62,57473,60.190220965091044,Far
+41,Rensselaer Polytechnic Institute (Lally),Lally,0.42,67200,140.36540325607322,Far
+42,Michigan State University (Broad),Broad,0.3219,58706,77.80726796592977,Far
+43,Santa Clara University (Leavey),Leavey,0.435,59333,2.9451317156834995,Close
+44,Miami University (Farmer),Farmer,0.626,59540,78.35694292744445,Far
+45,St. John's University (Tobin),Tobin,0.59,59146,11.198676392918623,Close
+46,Seton Hall University (Stillman),Stillman,0.576,59451,12.727569798745321,Close
+47,University of Texas-Dallas (Jindal),Jindal,0.6,58100,14.686045639566627,Close
+48,Rutgers Business School (Newark),Newark,0.55,54211,26.25287739145775,Close
+49,University of Tennessee-Knoxville (Haslam),Haslam,0.85,50446,160.36330614081896,Far
+50,St. Thomas University (Opus),Opus,0.83,48000,0.6418850181908933,Close
+51,Drexel University (LeBow),LeBow,0.74,57185,1.2840279732300004,Close
+52,Elon University (Love),Love,0.721,52299,96.6636367989362,Far
+53,University of Oklahoma (Price),Price,0.6177,53134,18.31665163601776,Close
+54,Rochester Institute of Technology (Saunders),Saunders,0.721,51273,250.14586270203503,Far
+55,University of Arizona (Eller),Eller,0.79,54041,105.78699257764632,Far
+56,University of New Hampshire (Paul),Paul,0.641,50420,54.01492346276303,Far
+57,Texas Tech University (Rawls),Rawls,0.764,53473,269.80059682574034,Far
+58,Evansville University (Schroeder),Schroeder,0.886,50537,98.54174343841831,Far
+59,Villanova University,Villanova,0.2207,63709,11.107454869942945,Close
+60,Wake Forest University,Wake Forest,0.248,68300,70.33159297739473,Far
+61,Northeastern University (D'amore-McKim),D’Amore-McKim,0.1868,66101,2.0643312243044973,Close
+62,University of Wisconsin-Madison,Wisconsin,0.35,58603,75.62922141240873,Far
+63,Lehigh University,Lehigh,0.2239,66598,46.38625068201559,Close
+64,University of Illinois at Champaign-Urbana (Geis),Gies,0.4898,63079,112.3398787765237,Far
+65,University of Pittsburgh,Pittsburgh,0.44,54370,256.0068536689513,Far
+66,Hult International Business School,Hult International,0.5,34708,0.9845052922947873,Close
+67,University of San Diego,San Diego,0.53,57119,4.191835257209316,Close
+68,Christopher Newport University,Christopher Newport,0.746,48000,130.53547869526,Far
+69,Providence College,Providence,0.51,57174,40.55553763653164,Close
+70,James Madison University,James Madison,0.6831,58257,104.28184213183016,Far
+71,University of Akron,Akron,0.7399,42651,109.75080867585142,Far
+72,Florida Southern College,Florida Southern,0.5,43366,159.37752491498463,Far
+73,Lipscomb University,Lipscomb,0.61,46875,4.057080863733806,Close
+74,University of North Carolina-Wilmington,North Carolina-Wilmington,0.61,44507,182.83475713729044,Far
+75,Ithaca College,Ithaca,0.8018,50649,174.86461254799343,Far
+76,Northern Illinois University,Northern Illinois,0.5384,51120,58.85659217306067,Far
+77,University of Michigan-Dearborn,Michigan-Dearborn,0.62,49507,9.59429184741664,Close
+78,Bowling Green State University,Bowling Green,0.7,53300,72.27533867029564,Far
+79,University of Miami,Miami,0.3044,60801,328.7103074224219,Far
+80,Brigham Young University (Marriott),Marriott,0.6316,55148,339.40255341540643,Far
+81,The College of New Jersey,TCNJ,0.41,58000,29.89049058483645,Close
+82,University of South Carolina (Darla Moore),Darla Moore,0.651,61946,85.62486296902229,Far
+83,University of Delaware (Lerner),Lerner,0.464,54087,36.64928044920054,Close
+84,University of Missouri-Columbia (Trulaske),Trulaske,0.6917,48827,335.2036801449896,Far
+85,St. Louis University (Chaifetz),Chaifetz,0.8303,63333,232.20988891959226,Far
+86,Sacred Heart University (Jack Welch),Jack Welch,0.608,54784,53.214610385747456,Far
+87,Duquesne University (Palumbo Donahue),Donahue,0.76,50592,257.6815621230651,Far
