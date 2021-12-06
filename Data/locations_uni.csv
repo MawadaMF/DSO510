@@ -1,0 +1,89 @@
+School_x,business_school,Acceptance Rate,Average Salary,School_Latitude,School_Longitude,Nearest MTA_Lat,Nearest MTA_Long,In the MTA?,City Chosen
+University of Pennsylvania (Wharton),Wharton,0.0649,80354,39.95216943,-75.19346047,39.95276917,-75.16407793,Yes,Philadelphia
+Washington University in St. Louis (Olin),Olin,0.097,67115,38.65127384,-90.31113952,39.76868853,-86.16054897,No,Indianapolis
+University of California-Berkeley (Haas),Haas,0.043,73302,37.87188001,-122.2585412,37.76950648,-122.4201616,No,San Francisco
+Cornell University (Dyson),Dyson,0.029,74493,42.51049151,-76.48402902,40.71183265,-74.0069742,No,New York
+University of Michigan (Ross),Ross,0.12,72268,42.27827145,-83.73789088,42.33154136,-83.04563958,No,Detroit
+New York University (Stern),Stern,0.08,80546,40.72925466,-73.99627276,40.71183265,-74.0069742,Yes,New York
+Carnegie Mellon University (Tepper),Tepper,0.12,77987,40.44510397,-79.94537474,39.95276917,-75.16407793,No,Philadelphia
+Georgetown University (McDonough),McDonough,0.1584,73019,38.90909991,-77.07566805,38.9081312,-77.03729142,Yes,Washington DC
+University of Virginia (McIntire),McIntire,0.1215,75068,38.05298698,-78.51469575,38.9081312,-77.03729142,No,Washington DC
+University of Notre Dame (Mendoza),Mendoza,0.19,65000,41.71859628,-86.23052296,41.88593868,-87.63423404,No,Chicago
+University of California-Irvine (Merage),Merage,0.22,54479,33.64051304,-117.8443928,34.04995157,-118.2480766,No,Los Angeles
+University of North Carolina at Chapel Hill (Kenan-Flagler),Kenan-Flagler,0.1217,66667,35.90479052,-79.04696705,35.2267415,-80.84387748,No,Charlotte
+Southern Methodist University (Cox),Cox,0.1112,67138,32.84232309,-96.78363772,32.77656964,-96.80033616,Yes,Dallas
+Emory University (Goizueta),Goizueta,0.1721,66297,33.79721202,-84.32229567,33.74865951,-84.38808142,Yes,Atlanta
+Boston College (Carroll),Carroll,0.25,65814,42.33454283,-71.17002289,42.35979786,-71.0572255,Yes,Boston
+University of Texas-Austin (McCombs),McCombs,0.228,67347,30.28430378,-97.73764047,30.26683736,-97.74322601,Yes ,Austin
+Georgia Institute of Technology (Scheller),Scheller,0.237,62545,33.77655931,-84.3877328,33.74865951,-84.38808142,Yes,Atlanta
+Boston University (Questrom),Questrom,0.1776,64275,42.35078512,-71.10519525,42.35979786,-71.0572255,Yes,Boston
+Indiana University (Kelley),Kelley,0.4038,62734,39.17253714,-86.51933744,39.76868853,-86.16054897,No,Indianapolis
+Tulane University (Freeman),Freeman,0.22,60442,29.93917515,-90.11959366,29.75949676,-95.36914678,No,Houston
+The College of William & Mary (Mason),Mason,0.224,64724,37.27180163,-76.71609132,38.9081312,-77.03729142,No,Washington DC
+University of Richmond (Robins),Robins,0.3031,62969,37.57517538,-77.54076825,38.9081312,-77.03729142,No,Washington DC
+University of Washington (Foster),Foster,0.2095,61039,47.65928146,-122.3077685,47.6064623,-122.3345189,Yes,Seattle
+University of Minnesota (Carlson),Carlson,0.2844,56989,44.97064555,-93.24499991,44.97755544,-93.26541254,Yes,Minneapolis
+Babson College,Babson College,0.24,57665,42.29644875,-71.26569158,42.35979786,-71.0572255,No,Boston
+Worcester Polytechnic Institute (Foisie),Foisie,0.36,69930,42.2740724,-71.80815407,42.35979786,-71.0572255,No,Boston
+Fordham University (Gabelli),Gabelli,0.449,63777,40.86196735,-73.88566652,40.71183265,-74.0069742,Yes,New York
+University of Georgia (Terry),Terry,0.4744,56428,33.94807487,-83.37730435,33.74865951,-84.38808142,No,Atlanta
+University of Houston (Bauer),Bauer,0.2518,54144,29.72161771,-95.33834057,29.75949676,-95.36914678,Yes,Houston
+Rutgers Business School (New Brunswick),New Brunswick,0.46,60228,40.5234363,-74.44075971,40.71183265,-74.0069742,No,New York
+Texas A&M University (Mays),Mays,0.3407,57286,30.61103412,-96.35062153,29.75949676,-95.36914678,No,Houston
+Syracuse University (Whitman),Whitman,0.381,59371,43.03918475,-76.13525528,40.71183265,-74.0069742,No,New York
+University of Massachusetts-Amherst (Isenberg),Isenberg,0.306,57782,42.3868311,-72.53015879,42.35979786,-71.0572255,No,Boston
+University of Utah (Eccles),Eccles,0.408,51478,40.76176301,-111.8435545,36.17001541,-115.1406592,No,Las Vegas
+American University (Kogod),Kogod,0.316,58670,38.93811042,-77.08785917,38.90726615,-77.03772879,Yes,Washington DC
+Ohio State University (Fisher),Fisher,0.386,54740,40.00660242,-83.03055116,39.96393122,-83.00037239,Yes,Columbus
+Pennsylvania State University (Smeal),Smeal,0.37,60046,40.80394243,-77.86517509,39.95276917,-75.16407793,No,Philadelphia
+University of Denver (Daniels),Daniels,0.463,50975,39.6767495,-104.961918,39.73942856,-104.9939711,Yes,Denver
+Texas Christian University (Neeley),Neeley,0.4656,60719,32.70902562,-97.35715549,32.75570863,-97.32994566,Yes,Fort Worth
+University of Kentucky (Gatton),Gatton,0.6979,49175,38.03807404,-84.50683278,38.25242321,-85.75834006,No,Louisville
+Purdue University (Krannert),Krannert,0.62,57473,40.42372377,-86.91082191,39.76868853,-86.16054897,No,Indianapolis
+Rensselaer Polytechnic Institute (Lally),Lally,0.42,67200,42.7311836,-73.6832619,40.71183265,-74.0069742,No,New York
+Michigan State University (Broad),Broad,0.3219,58706,42.72702872,-84.4728586,42.33154136,-83.04563958,No,Detroit
+Santa Clara University (Leavey),Leavey,0.435,59333,37.34965884,-121.9390197,37.33840691,-121.8874193,Yes,San Jose
+Miami University (Farmer),Farmer,0.626,59540,39.5113875,-84.72968201,39.76868853,-86.16054897,No,Indianapolis
+St. John's University (Tobin),Tobin,0.59,59146,40.7235333,-73.79422764,40.71183265,-74.0069742,Yes,New York
+Seton Hall University (Stillman),Stillman,0.576,59451,40.74259091,-74.24603649,40.71183265,-74.0069742,No,New York
+University of Texas-Dallas (Jindal),Jindal,0.6,58100,32.98515098,-96.74686874,32.77662902,-96.7990196,No,Dallas
+Rutgers Business School (Newark),Newark,0.55,54211,40.5234363,-74.44075971,40.71183265,-74.0069742,No,New York
+University of Tennessee-Knoxville (Haslam),Haslam,0.85,50446,35.95560866,-83.928912,36.16194472,-86.78219784,No,Nashville
+St. Thomas University (Opus),Opus,0.83,48000,44.97410853,-93.27757489,44.97755544,-93.26541254,Yes,Minneapolis
+Drexel University (LeBow),LeBow,0.74,57185,39.95519716,-75.18805399,39.95276917,-75.16407793,Yes,Philadelphia
+Elon University (Love),Love,0.721,52299,36.10273102,-79.50232057,35.2267415,-80.84387748,No,Charlotte
+University of Oklahoma (Price),Price,0.6177,53134,35.20797794,-97.44385362,35.46682917,-97.51696322,No,Oklahoma City
+Rochester Institute of Technology (Saunders),Saunders,0.721,51273,43.08293249,-77.677224,40.71183265,-74.0069742,No,New York
+University of Arizona (Eller),Eller,0.79,54041,32.23709553,-110.9545673,33.44678569,-112.0742084,No ,Phoenix
+University of New Hampshire (Paul),Paul,0.641,50420,43.13663327,-70.92946167,42.35979786,-71.0572255,No,Boston
+Texas Tech University (Rawls),Rawls,0.764,53473,33.58786422,-101.8792558,32.75570863,-97.32994566,No,Fort Worth
+Evansville University (Schroeder),Schroeder,0.886,50537,37.97331718,-87.53187513,38.25242321,-85.75834006,No,Louisville
+Villanova University,Villanova,0.2207,63709,40.03685151,-75.3425785,39.95276917,-75.16407793,No,Philadelphia
+Wake Forest University,Wake Forest,0.248,68300,36.13645831,-80.27805855,35.2267415,-80.84387748,No,Charlotte
+Northeastern University (D'amore-McKim),D’Amore-McKim,0.1868,66101,42.34032464,-71.0878286,42.35979786,-71.0572255,Yes,Boston
+University of Wisconsin-Madison,Wisconsin,0.35,58603,43.07262238,-89.40139,43.03759575,87.90813192,No,Milwaukee
+Lehigh University,Lehigh,0.2239,66598,40.60488298,-75.3775299,39.95276917,-75.16407793,No,Philadelphia
+University of Illinois at Champaign-Urbana (Geis),Gies,0.4898,63079,40.10374539,-88.23054399,39.76868853,-86.16054897,No,Indianapolis
+University of Pittsburgh,Pittsburgh,0.44,54370,40.44436961,-79.960835,39.95276917,-75.16407793,No,Philadelphia
+Hult International Business School,Hult International,0.5,34708,42.36998064,-71.07069402,42.35979786,-71.0572255,Yes,Boston
+University of San Diego,San Diego,0.53,57119,32.77191006,-117.188331,32.71522851,-117.1622033,Yes,San Diego
+Christopher Newport University,Christopher Newport,0.746,48000,37.0642616,-76.49357092,38.90726615,-77.03772879,No,Washington DC
+Providence College,Providence,0.51,57174,41.84389842,-71.4349429,42.35979786,-71.0572255,No,Boston
+James Madison University,James Madison,0.6831,58257,38.435134,-78.86977626,38.90726615,-77.03772879,No,Washington DC
+University of Akron,Akron,0.7399,42651,41.07707121,-81.5114462,39.96393122,-83.00037239,No,Columbus
+Florida Southern College,Florida Southern,0.5,43366,28.03152077,-81.94499719,30.33165916,-81.65563011,No,Jacksonville
+Lipscomb University,Lipscomb,0.61,46875,36.10468642,-86.79891572,36.16194472,-86.78219784,Yes,Nashville
+University of North Carolina-Wilmington,North Carolina-Wilmington,0.61,44507,34.22391834,-77.86959287,35.2267415,-80.84387748,No,Charlotte
+Ithaca College,Ithaca,0.8018,50649,42.42454804,-76.49382152,40.71183265,-74.0069742,No,New York
+Northern Illinois University,Northern Illinois,0.5384,51120,41.9342649,-88.774069,41.88593868,-87.63423404,No,Chicago
+University of Michigan-Dearborn,Michigan-Dearborn,0.62,49507,42.31770568,-83.2320299,42.33154136,-83.04563958,No,Detroit
+Bowling Green State University,Bowling Green,0.7,53300,41.37981098,-83.63007187,42.33154136,-83.04563958,No,Detroit
+University of Miami,Miami,0.3044,60801,25.71790205,-80.27464753,30.33165916,-81.65563011,No,Jacksonville
+Brigham Young University (Marriott),Marriott,0.6316,55148,40.25049331,-111.6525646,36.17001541,-115.1406592,No,Las Vegas
+The College of New Jersey,TCNJ,0.41,58000,40.26846354,-74.77767454,39.95276917,-75.16407793,No,Philadelphia
+University of South Carolina (Darla Moore),Darla Moore,0.651,61946,33.99446975,-81.03331476,35.2267415,-80.84387748,No,Charlotee
+University of Delaware (Lerner),Lerner,0.464,54087,39.68071275,-75.755743,39.95276917,-75.16407793,No,Philadelphia
+University of Missouri-Columbia (Trulaske),Trulaske,0.6917,48827,38.94256431,-92.32964577,39.76868853,-86.16054897,No,Indianapolis
+St. Louis University (Chaifetz),Chaifetz,0.8303,63333,38.6374555,-90.23585133,39.76868853,-86.16054897,No,Indianapolis
+Sacred Heart University (Jack Welch),Jack Welch,0.608,54784,41.22058619,-73.2423947,40.71183265,-74.0069742,No,New York
+Duquesne University (Palumbo Donahue),Donahue,0.76,50592,40.43747921,-79.99371967,39.95276917,-75.16407793,No,Philadelphia
